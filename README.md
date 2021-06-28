@@ -1,6 +1,6 @@
 # 👋 Hello! I'm long2ice
 
-I'm a backend engineer and mainly use Python & Go.
+I'm a backend engineer and use Python & Go mainly, love open source.
 
 **[:heart: Sponsor me](https://sponsor.long2ice.cn)**
 
