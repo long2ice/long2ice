@@ -2,7 +2,7 @@
 
 I'm a backend engineer and use Python & Go mainly, love open source.
 
-**<a href="https://sponsor.long2ice.io" target="_blank">:heart: Sponsor me</a>**
+**[:heart: Sponsor me](https://sponsor.long2ice.io)**
 
 [![long2ice's github stats](https://github-readme-stats.vercel.app/api?username=long2ice&show_icons=true)](https://github.com/long2ice/long2ice)
 
