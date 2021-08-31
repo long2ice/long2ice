@@ -10,5 +10,5 @@ I'm a backend engineer and use Python & Go mainly, love open source.
 
 [![tortoise-orm](https://github-readme-stats.vercel.app/api/pin/?username=tortoise&repo=tortoise-orm)](https://github.com/tortoise/tortoise-orm)&emsp;[![aerich](https://github-readme-stats.vercel.app/api/pin/?username=tortoise&repo=aerich)](https://github.com/tortoise/aerich)
 
-[![fastapi-admin](https://github-readme-stats.vercel.app/api/pin/?username=fastapi-admin&repo=fastapi-admin)](https://github.com/fastapi-admin/fastapi-admin)
+[![fastapi-admin](https://github-readme-stats.vercel.app/api/pin/?username=fastapi-admin&repo=fastapi-admin)](https://github.com/fastapi-admin/fastapi-admin)&emsp;[![swagin](https://github-readme-stats.vercel.app/api/pin/?username=long2ice&repo=swagin)](https://github.com/long2ice/swagin)
 
