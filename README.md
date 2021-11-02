@@ -2,7 +2,7 @@
 
 I'm a backend engineer and use Python & Go mainly, love open source.
 
-> Looking for the front end engineer to develop open source projects together!
+> Looking for a front end engineer to develop open source projects together!
 
 **[:heart: Sponsor me](https://sponsor.long2ice.io)**
 
