@@ -2,7 +2,7 @@
 
 I'm a backend engineer and use Python & Go mainly, love open source.
 
-> Looking for a front end engineer to develop open source projects together!
+> 如果你想找远程工作，可以找我内推，Python & Go & NodeJS & DevOps 基本都要，我会帮助你全程跟踪面试状态。公司目前已融A轮，前景还是不错的，主要做研发效能这一块。
 
 **[:heart: Sponsor me](https://sponsor.long2ice.io)**
 
