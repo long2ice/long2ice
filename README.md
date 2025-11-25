@@ -1,7 +1,5 @@
 # 👋 Hello! I'm long2ice
 
-**👀 Looking for remote job! Please contact me!**
-
 I'm a backend engineer and use Python & Go mainly, love open source.
 
 **[:heart: Sponsor me](https://sponsor.long2ice.io)**
